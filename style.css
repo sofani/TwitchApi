@@ -1,0 +1,21 @@
+body{
+  background-image:url("https://s31.postimg.org/cc06tymqj/twitch.jpg");
+  color:orange;
+  font-family:"Tillana";
+  text-shadow:5px 5px 5px blue;
+  background-size:cover;
+}
+img{
+  width:80px;
+}
+#header{
+  background:rgba(0,0,0,.5);
+  border:5px yellow ridge;
+  border-radius:125px 60px
+}
+.row{
+  background:rgba(0,0,0,.5);
+  border:10px green ridge;
+  border-radius:125px 74px;
+  padding:15px
+}
